@@ -1,0 +1,50 @@
+{
+  "project": "drugs-and-recreational-drug-use-lexicon",
+  "language": "en",
+  "namespace": 0,
+  "source": "https://en.wikipedia.org/w/api.php",
+  "retrieved_utc": [
+    "2026-11-24T20:52:27.570878+00:00",
+    "2026-11-24T20:53:41.585358+00:00"
+  ],
+  "membership": "direct only; no title filter",
+  "seed_count": 352,
+  "sha256": "caa4f3ae910f11ca4ec72ce3ac7f9123f1566a28b05242fa7c5cc3fdffede372",
+  "categories": {
+    "Category:Drugs": {
+      "state": "found",
+      "article_members": 58,
+      "immediate_subcategories": 39
+    },
+    "Category:Recreational drugs": {
+      "state": "missing",
+      "article_members": 0,
+      "immediate_subcategories": 0
+    },
+    "Category:Psychoactive drugs": {
+      "state": "found",
+      "article_members": 50,
+      "immediate_subcategories": 19
+    },
+    "Category:Drug culture": {
+      "state": "found",
+      "article_members": 157,
+      "immediate_subcategories": 16
+    },
+    "Category:Substance abuse": {
+      "state": "found",
+      "article_members": 19,
+      "immediate_subcategories": 6
+    },
+    "Category:Substance-related disorders": {
+      "state": "found",
+      "article_members": 88,
+      "immediate_subcategories": 6
+    },
+    "Category:Substance use disorders": {
+      "state": "missing",
+      "article_members": 0,
+      "immediate_subcategories": 0
+    }
+  }
+}
