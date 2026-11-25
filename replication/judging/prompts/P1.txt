@@ -1,0 +1,12 @@
+Concept: "{preferred_name}" (Wikipedia category: {kind}; broad class: {broad_class})
+Other seed concepts linked from its article, for orientation only: {up to 10 neighbour names}
+
+Each drafter states the sense of this concept:
+{for each item, in random order: [S1] text, [S2] text, ...}
+
+Group the statements so that two statements share a group if and only if they refer to the same thing in
+drug, public-health or encyclopaedic usage (same referent), even if one is broader or narrower. Different
+referents (for example a substance versus the practice of using it, a drug versus the disorder it causes, or a
+street name versus an unrelated everyday word) go in different groups. A statement that the page is out of scope or a duplicate forms its own group.
+Return: {"groups": [["S1","S3"],["S2"]], "majority_reading": "<10 words>", "ambiguous_name": true|false,
+         "note": "<=30 words"}

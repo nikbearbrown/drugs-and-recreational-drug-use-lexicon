@@ -9,3 +9,7 @@ One coding agent, one independent edition. Use the pinned [seed manifest](../dat
 5. Hand in the run privately. After all runs are frozen, a separate reviewer follows the [reconciliation instructions](../lexicon/README.md).
 
 A maintainer may designate a separate shared-bundle or ungrounded control. Do not mix those results with independently sourced grounded runs.
+
+## Agreement study
+
+Once several independent editions are frozen, their agreement in meaning is measured per `concept_id` with the kit in [AGREEMENT-METHOD.md](AGREEMENT-METHOD.md), [judging/](judging/README.md) (start at [judging/START-HERE-AI-JUDGE.md](judging/START-HERE-AI-JUDGE.md)) and `scripts/agreement.py`. Drafts and run folders stay private; the kit reads them from private paths.
