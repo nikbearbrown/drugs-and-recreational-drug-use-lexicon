@@ -18,7 +18,7 @@ Drug names, street names and the vocabulary of drug use vary widely and change q
 
 ## Where the draft is
 
-There is no draft yet. The closest documents are the [seed list and its provenance](data/README.md), the [replication kit](replication/README.md) and the [rules for the reviewed edition](lexicon/README.md).
+Rough draft, not reviewed: the [paper series](paper/README.md), modelled on the WordNet papers, with the [human evaluation to-do](paper/HUMAN-EVALUATION-TODO.md). One independent Grok Bot edition is checked (352/352 pass: 274 entries); a second edition, cross-model judging and human evaluation have not been run.
 
 ## What needs to be done
 
