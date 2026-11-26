@@ -1,0 +1,120 @@
+MK warnings on entries: ['Antipsychotic abuse', 'Buccal tablet', 'Drug naïvety', 'Epigenetics of cocaine addiction', 'Gray death', 'Harm reduction', 'Life-process model of addiction', 'Magic truffle', 'Party pills', 'Polysubstance use', 'Post-traumatic stress disorder and substance use disorders', 'Recreational use of nitrous oxide', "Rhodes' Risk Environment Framework", 'Smoking', 'Smoking culture', 'Solar puffing', 'Take-home naloxone program', 'Tweaking (behavior)', 'Urban legends about drugs', 'ΔFosB']
+MK warnings on OOS: 78
+29 ambiguous: topic or overview article rather than a single term; entry describes the topic :: Alcohol and breast cancer; Alcohol and society; Alcoholism in adolescence; Arguments for and against drug prohibition; Betel chewing in China; Biodiversity and drugs; Commonly prescribed drugs; Contaminated currency; Drug use in music; Drugs and prostitution; Drugs and sexual desire; Drugs in pregnancy; Education sector responses to substance abuse; Effects of long-term benzodiazepine use; Entheogenic drugs and the archaeological record; Epigenetics of cocaine addiction; Evolutionary models of human drug use; History and culture of substituted amphetamines; History of entheogenic drugs; Kava culture; Ketamine in society and culture; Molecular and epigenetic mechanisms of alcoholism; Occupational health concerns of cannabis use; Post-traumatic stress disorder and substance use disorders; Psychoactive drugs in Nigeria; Recreational drug use in animals; Sex and drugs; Substance abuse in ancient Rome; Urban legends about drugs
+16 ambiguous: PERIPHERAL :: Beatnik; Blacklight poster; Clubbing (subculture); Disco; Enisamium iodide; Heroin chic; Love-in; Protollin; Rave; Rebetiko; Sepsivac; Sucrosomial iron; Targeted therapy; Teratology; Topical prednisolone; Vasoactivity
+11 ambiguous: redirect to non-seed page "…"; mapping left to the maintainer :: Biobetter; Bioparallel; Buccal tablet; Life-process model of addiction; Pentastack; Screening, brief intervention and referral to treatment; Solar puffing; Topical prednisolone; Tweaking (behavior); Whoonga; ΔFosB
+3 ambiguous: the source says "…" isomers while naming three; the count is inconsistent in th :: 2-Thioisomescaline; 3-Thioisomescaline; 4-Thioisomescaline
+2 ambiguous: country-specific topic page :: Betel chewing in China; Psychoactive drugs in Nigeria
+2 ambiguous: "…" is a short acronym with other meanings; the drug sense is fixed by the page :: BOH (drug); BOM (drug)
+2 ambiguous: a single named commercial product rather than a general term :: Kumdang-2; Royal Blood-Fresh
+1 ambiguous: two numbering conventions (2-bromo-4,5- vs 6-bromo-3,4-) name the same compound :: 2-Bromo-4,5-methylenedioxyamphetamine
+1 ambiguous: an experimental therapeutic protein with no recreational or public-health use;  :: 3K3A-Activated Protein C
+1 ambiguous: drug-development methodology term; peripheral to substances and recreational us :: Adaptive design (medicine)
+1 ambiguous: regulatory medicines term; peripheral to recreational drug use :: Advanced Therapy Medicinal Product
+1 ambiguous: oncology drug class with no recreational or public-health drug-use sense; perip :: Antineoplastic
+1 ambiguous: pharmacological class with no recreational or public-health drug-use sense; per :: Astringent
+1 ambiguous: a specific named internet phenomenon rather than a general term :: Benadryl challenge
+1 ambiguous: regulatory medicines term specific to the United States; peripheral to recreati :: Botanical drug
+1 ambiguous: a loose descriptive grouping rather than an established term :: Commonly prescribed drugs
+1 ambiguous: the term is also used loosely for genuine passive exposure to cannabis smoke :: Contact high
+1 ambiguous: a plant species listed in Category:Drugs without stated drug relevance :: Coryphantha compacta
+1 ambiguous: general medical term with no specific drug-use sense; "…" also has non-medical  :: Cure
+1 ambiguous: names both a music genre and a venue (discotheque) :: Disco
+1 ambiguous: Wikidata merges this with "…"; drugs causing the reaction as a side effect are  :: Disulfiram-like drug
+1 ambiguous: the phrase is also used for patients seeking second opinions without misuse; th :: Doctor shopping
+1 ambiguous: "…" is used both broadly (any bioactive substance) and narrowly (illicit or rec :: Drug
+1 ambiguous: pharmaceutical marketing term; peripheral to substance use and public-health te :: Drug coupon
+1 ambiguous: the source gives several senses (managed withdrawal, the withdrawal process, ov :: Drug detoxification
+1 ambiguous: pharmaceutical quality-control term; peripheral to substance use and public-hea :: Drug reference standard
+1 ambiguous: "…" is also used in intellectual-disability services for disability plus mental :: Dual diagnosis
+1 ambiguous: the term names a context of use rather than a pharmacological class, so members :: Entheogen
+1 ambiguous: experimental pharmacology concept; peripheral to substance use and public-healt :: Exercise mimetic
+1 ambiguous: chemistry sense and drug-culture sense; entry covers both :: Free base
+1 ambiguous: a street name whose composition varies; not a fixed substance :: Gray death
+1 ambiguous: an over-the-counter medicine; relevance to the domain is mainly its opioid cont :: Kaolin and morphine
+1 ambiguous: "…" also names cannabis strains; the seed sense is the West African synthetic d :: Kush (drug)
+1 ambiguous: pharmaceutical industry term; peripheral to substance use and public-health ter :: Me-too drug
+1 ambiguous: "…" also names the act of treating with medicines (WordNet medication.n.02) :: Medication
+1 ambiguous: pharmacology mechanism term; peripheral to substance use and public-health term :: Membrane-mediated anesthesia
+1 ambiguous: covers both medicinal and psychedelic senses :: Mushroom tea
+1 ambiguous: the phenomenon is alleged and poorly evidenced :: Pharming party
+1 ambiguous: pharmacology naming class with no substance-use or public-health sense; periphe :: Piprant
+1 ambiguous: clinical practice term; peripheral to substance use and public-health terminolo :: Premedication
+1 ambiguous: historically "…" also meant patent medicines of unproven value; the source sens :: Proprietary drug
+1 ambiguous: "…" is also a general chemistry term for a substituent group :: Propynyl (drug)
+1 ambiguous: general medical sense (disease recurrence) and addiction sense; entry centres o :: Relapse
+1 ambiguous: laboratory sense and drug-culture sense; the source leads with the laboratory s :: Research chemical
+1 ambiguous: "…" also means a cockroach, a fish, a hairstyle and, in WordNet, a street name  :: Roach (smoking)
+1 ambiguous: medical sense and experimental-psychology sense :: Self-administration
+1 ambiguous: pharmacological class with no substance-use or public-health sense; peripheral  :: Sialogogue
+1 ambiguous: stigmatised term whose clinical meaning overlaps Substance use disorder :: Substance abuse
+1 ambiguous: DSM-IV diagnosis later merged into substance use disorder; overlaps Addiction a :: Substance dependence
+1 ambiguous: overlaps Addiction, Substance dependence and Substance abuse :: Substance use disorder
+1 ambiguous: a single named commercial product rather than a general term; claims rest on st :: Tetrodocain
+1 ambiguous: names a historical period; borderline between a term and an event :: The Great Binge
+1 ambiguous: "…" also has unrelated everyday senses (adjusting, pinching) :: Tweaking (behavior)
+1 ambiguous: "…" is also an offensive slang term for a white person; this entry covers only  :: Whitey (drugs)
+PDUP
+Alcohol abuse | possible-duplicate: overlaps Alcoholism (enwiki:2965); often conflated in lay usage
+Alcoholism | possible-duplicate: overlaps Alcohol abuse (enwiki:231994); often conflated in lay usage
+Entheogenic drugs and the archaeological record | possible-duplicate: overlaps History of entheogenic drugs (enwiki:68146713); overlapping historical topic pages
+History of entheogenic drugs | possible-duplicate: overlaps Entheogenic drugs and the archaeological record (enwiki:12678136); overlapping historical topic pages
+Motivational enhancement therapy | possible-duplicate: overlaps Motivational therapy (enwiki:4682452); closely related named therapies
+Motivational therapy | possible-duplicate: overlaps Motivational enhancement therapy (enwiki:31300355); closely related named therapies
+Polysubstance | possible-duplicate: overlaps Polysubstance use (enwiki:3588536); diagnostic term versus usage term; often conflated
+Polysubstance use | possible-duplicate: overlaps Polysubstance (enwiki:26612233); diagnostic term versus usage term; often conflated
+DUP
+Cutting agent | duplicate: seed page is a redirect to seed "Lacing (drugs)" (enwiki:4223023)
+Hangxiety | duplicate: seed page is a redirect to seed "Hangover" (enwiki:12274183)
+International Drug Users Remembrance Day | duplicate: seed page is a redirect to seed "Australian Injecting and Illicit Drug Users League" (enwiki:41650632)
+Skin pop scar | duplicate: seed page is a redirect to seed "Skin popping" (enwiki:15151817)
+Smoking culture | duplicate: seed page is a redirect to seed "Smoking" (enwiki:12254052)
+WDERR
+4-Bromo-3,5-dimethoxyamphetamine | Wikidata item lists the alias "4-ethyl-2-methoxy-5-methylthioamphetamine", which names a different compound; not used
+Alcohol myopia | Wikidata classes this theory under alcohol-related brain damage (Q18205193), which does not fit a cognitive theory; the link is kept for the item itself only
+Blackout (drug-related amnesia) | Wikidata classes the blackout as a substance use disorder (Q7632070), which is not accurate; not used
+Cannabinoid receptor modulator | Wikidata also classes this as a hormone (Q11364), which does not fit; not used
+Disulfiram-like drug | ambiguous: Wikidata merges this with "alcohol deterrents"; drugs causing the reaction as a side effect are not all deterrents
+Drug injection | Wikidata item is intravenous injection, narrower than drug injection generally
+Drug liberalization | Wikidata lists legalisation and decriminalisation as aliases; the source treats them as varieties, so they are recorded with conditions
+Poppers | Wikidata classes poppers as a hallucinogen (Q194270), which is inaccurate; not used
+Poppers | Wikidata aliases include product-labelling names used to sell poppers; not recorded
+Residential treatment center | Wikidata lists "therapeutic boarding school" as an alias, which is a narrower youth-specific institution; not recorded
+Sex and drugs | Wikidata lists "chemsex" as an alias, which names the narrower practice (Party and play); not recorded
+Smart shop | Wikidata lists "coffeeshop" as an alias, which names a different Dutch establishment; not recorded
+Substance abuse | Wikidata lists "injecting drug use" as an alias, which is a narrower practice; not recorded
+Substance abuse in ancient Rome | Wikidata error: item is typed as an instance of substance abuse, drug trafficking and drug
+Substance dependence | Wikidata lists "drug addiction" as an alias, which conflates dependence with addiction; not recorded
+Substance use disorder | Wikidata lists "substance-related disorder" as an alias, which is the broader class; not recorded
+Substance-related disorder | Wikidata lists "drug addiction" as an alias; not recorded
+Trip sitter | Wikidata error: trip sitter is typed as a profession
+Wernicke–Korsakoff syndrome | Wikidata lists "Korsakoff's syndrome" as an alias, which is one component; not recorded
+Γ-Hydroxybutyric acid | Wikidata lists brand names (Xyrem, Alcover) as aliases; not recorded
+OOS
+Alcohol and Drug Foundation [an organisation (Australian non-profit), not a term]; Anti-fentanyl legislation in the United States [legislation in one jurisdiction (a set of US bills), not a term]; Australian Injecting and Illicit Drug Users League [an organisation (Australian peer drug-user network), not a term]; Bluelight (web forum) [a website and organisation (harm-reduction web forum), not a term]; California Society of Addiction Medicine [an organisation (state professional society), not a term]; COVID-19 drug development [a specific research effort (drug development for one disease), not a term]; Dagga Couple [an organisation (South African cannabis lobby group), not a term]; DanceSafe [an organisation (US harm-reduction non-profit), not a term]; David E. Smith (physician) [a biography (physician), not a term]; Dopey (podcast) [a creative work (podcast), not a term]; Drug policy of Missouri [drug policy of one jurisdiction (a US state), not a term]; Drug User Liberation Front [an organisation (Canadian compassion club), not a term]; Drugs.com [a website and business (online drug encyclopedia), not a term]; E for Ecstasy [a creative work (book), not a term]; Ecstacy (song) [a creative work (song), not a term]; Erowid [an organisation and website (drug-information non-profit), not a term]; Eve & Rave [an organisation (German and Swiss harm-reduction associations), not a term]; Fetal rights [a legal and ethical concept (rights of the fetus) outside drug and public-health terminology; linked to the category only through prenatal substance exposure]; Forum Drugs Mediterranean [an organisation (French drug-policy non-profit), not a term]; Frank Chaloupka [a biography (economist), not a term]; Furthur (bus) [a specific object (a named bus in 1960s counterculture), not a term]; Get Your Drugs Tested [an organisation (a named drug-checking service in Vancouver), not a term]; Hamilton Morris [a biography (journalist and chemist), not a term]; Hamilton's Pharmacopeia [a creative work (television docuseries), not a term]; Hippy Sippy [a specific commercial product (a 1960s candy), not a term]; INPUD [an organisation (international network of people who use drugs), not a term]; Insite [a specific facility (a supervised injection site in Vancouver), not a term]; International Center for Ethnobotanical Education, Research and Service [an organisation (Spanish ethnobotany non-profit), not a term]; International Drug Users Remembrance Day [a named event (annual remembrance day), not a term]; International Overdose Awareness Day [a named event (annual awareness day), not a term]; Jive talk [a vernacular language variety (jazz-era slang), not a drug or public-health term]; Josie Kins [a biography (drug researcher and content creator), not a term]; José Carlos Bouso [a biography (psychologist and pharmacologist), not a term]; Korea Oriental Instant Medicinal Centre [an organisation (North Korean pharmaceutical company), not a term]; L. Georgi DiStefano [a biography (social worker), not a term]; Leukemia inhibitory factor [a protein (an interleukin-6 class cytokine) described by its biology, with no drug or public-health terminology sense in the source]; List of causes of death by rate [a list article (causes of death by rate), not a term]; List of drug combinations [a list article (drug combinations), not a term]; List of psychiatric medications [a list article (psychiatric medications), not a term]; List of psychoactive drugs [a list article (psychoactive drugs), not a term]; List of psychoactive plants [a list article (psychoactive plants), not a term]; List of psychotropic medications [a list article (psychotropic medications by brand), not a term]; List of reagent testing color charts [a list article (reagent colour charts), not a term]; List of Sin Cities [a list article (cities nicknamed Sin City), not a term]; Lizard Labs [an organisation (a research-chemical vendor company), not a term]; Marijuana Anonymous [an organisation (a twelve-step fellowship), not a term]; Mass. and Cass [a specific place (an area of Boston), not a term]; Metzineres [an organisation (Barcelona cooperative), not a term]; Midnight Delight (film) [a creative work (film), not a term]; Monkey Drug Trials [a specific historical experiment (1969 animal studies), not a term]; Museo del Enervante [a specific place (a museum in Mexico), not a term]; Native Americans and reservation inequality [a social-inequality topic about one population, not a drug or public-health term]; Peter Gorman (journalist) [a biography (journalist), not a term]; Prevention First [an organisation (Illinois prevention non-profit), not a term]; Prevention Point Philadelphia [an organisation (Philadelphia harm-reduction non-profit), not a term]; Project Weber/RENEW [an organisation (Rhode Island harm-reduction group), not a term]; PsychonautWiki [a website (drug-information wiki), not a term]; Psynapse (organization) [an organisation (Norwegian psychedelics non-profit), not a term]; Residential Drug Abuse Program [a specific programme of one institution (US federal prisons), not a term]; Rochdale College [a specific institution (a former Toronto co-operative college), not a term]; Shakedown Street (vending area) [a specific vending area at concerts, not a term]; Sober Grid [a specific company and mobile app, not a term]; Society of Mental Awareness [a specific organisation (a former London advocacy group), not a term]; Solidarity trial [a specific clinical trial (WHO COVID-19 treatments trial), not a term]; Strawberry Quik meth [a specific hoax drug scare (2007), an event rather than a term]; TAMAR Education Project [a specific named treatment programme, not a term]; The Anarchist Cookbook [a specific book (creative work); its drug-manufacture content is also outside the domain rule]; The Big Cube [a specific film (creative work), not a term]; The Seed (organization) [a specific organisation (a former US youth rehabilitation programme), not a term]; Timothy Leary [biography (Timothy Leary), not a term]; Trans-European Drug Information [a specific organisation and database (European drug-checking network), not a term]; Tre Borràs Cabacés [biography (Tre Borràs Cabacés), not a term]; Treatment Improvement Protocols [a specific publication series (SAMHSA manuals), not a term]; Turning Point Alcohol and Drug Centre [a specific organisation (Melbourne treatment centre), not a term]; UK Addiction Treatment Centres [a specific company (UK treatment provider), not a term]; United States drug overdose death rates and totals over time [a statistics article (US overdose death data), not a term]; Vancouver Area Network of Drug Users [a specific organisation (Vancouver drug-user advocacy group), not a term]; Willy Myco [biography (online content creator), not a term]
+DOMAIN
+Cold water extraction | domain rule: preparation steps in the source are deliberately omitted; only the term is described
+Drug precursors | domain rule: no information on which chemicals yield which drugs or how; the entry describes the regulatory term only
+Drugs and prostitution | domain rule: population-specific claims in the source are not carried into the entry
+Flashblood | domain rule: no procedure is described; the infection-risk statement is from model knowledge
+Free base | domain rule: conversion procedure in the source is omitted
+Homebake (slang) | domain rule: production details in the source are omitted
+Kush (drug) | domain rule: the source notes use "particularly among young people"; demographic framing is not carried into the entry
+Lean (drug) | domain rule: preparation details in the source are omitted
+List of drug combinations | domain rule: list content (combinations) not reproduced
+Mickey Finn (drugs) | domain rule: no concealment detail is given
+Mushroom tea | domain rule: preparation details are omitted
+Native Americans and reservation inequality | domain rule: the page centres on one population group; no demographic inference is drawn
+Online illicit drug vendor | domain rule: no procurement information is given; the entry describes the category only
+Parachute (drugs) | domain rule: method details in the source are omitted
+Party and play | domain rule: the source associates the practice with "specific sub-groups"; no demographic group is named in the entry
+Pentastack | domain rule: the component list is not reproduced
+Recreational drug tourism | domain rule: no destinations or procurement details are given
+Reverse smoking | domain rule: the source's claims about which sex practises it more are not carried into the entry
+Speedball (drug) | domain rule: preparation and administration detail from the source is omitted
+Substance-related disorder | domain rule: the source's age, sex and urban/rural prevalence claims are not carried into the entry
+Synthetic cannabinoids | domain rule: the source's description of how the products are prepared is omitted
+Vasoactivity | domain rule: titration and dosing details in the source are omitted
+Wasp dope | domain rule: preparation and method of use are omitted
+Whipped-cream charger | domain rule: how the cartridge is opened is not described
+Γ-Hydroxybutyric acid | domain rule: dosing and synthesis details from the source are omitted
