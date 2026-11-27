@@ -1,6 +1,6 @@
 # Help build the Drugs and Recreational Drug Use Lexicon
 
-There is no draft yet, so this is a good time to shape the method. We're looking for collaborators who can draft or check independent editions, review entries in their field, or help write the paper. You don't need to review the whole project to help.
+A [rough methods manuscript](paper/manuscript.md) is available, and this is a good time to shape the method. We're looking for collaborators who can draft or check independent editions, review entries in their field, or help write the paper. You don't need to review the whole project to help.
 
 **If you have an hour:** open [data/seeds.tsv](data/seeds.tsv), pick ten pages in an area you know, and [open an issue](https://github.com/nikbearbrown/drugs-and-recreational-drug-use-lexicon/issues/new) that says which of them name a single substance, substance class or public-health term and which do not. Give each page's `concept_id` and a one-line reason.
 
