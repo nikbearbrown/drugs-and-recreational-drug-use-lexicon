@@ -2,9 +2,11 @@
 
 There is no draft yet, so this is a good time to shape the method. We're looking for collaborators who can draft or check independent editions, review entries in their field, or help write the paper. You don't need to review the whole project to help.
 
+**If you have an hour:** open [data/seeds.tsv](data/seeds.tsv), pick ten pages in an area you know, and [open an issue](https://github.com/nikbearbrown/drugs-and-recreational-drug-use-lexicon/issues/new) that says which of them name a single substance, substance class or public-health term and which do not. Give each page's `concept_id` and a one-line reason.
+
 ## Keep independent editions independent
 
-If you are drafting an edition, with a model or by hand, follow [AGENTS.md](AGENTS.md) and the [replication kit](replication/README.md) only. Don't read other model runs, judging results or the reviewed edition while you draft, and hand your run in privately: never commit drafts, source bundles or run folders to this repository. Everything below is for other kinds of help, or for after you have handed in.
+If you are drafting an edition, with a model or by hand, follow [AGENTS.md](AGENTS.md) and the [replication kit](replication/README.md) only. Don't read other model runs, judging results or the reviewed edition while you draft, and hand your run in privately: never commit drafts, source bundles or run folders to this repository. Don't read this repository's issues or pull requests before you draft either, because they discuss individual pages. Everything below is for other kinds of help, or for after you have handed in.
 
 ## Getting started
 
@@ -30,6 +32,7 @@ If you are drafting an edition, with a model or by hand, follow [AGENTS.md](AGEN
 |---|---|---|
 | **Draft an independent edition** | [AGENTS.md](AGENTS.md), then the [replication kit](replication/README.md) | A complete run, handed in privately as the kit says. Name the provider, model and exact version you actually used. |
 | **Review the method** | [Seed provenance](data/README.md) and the [replication kit](replication/README.md) | Name the rule (seed selection, entry shape, scope flags) and what could go wrong, with an example, and propose a fix. |
+| **Review part of the seed list** | [data/seeds.tsv](data/seeds.tsv) and its [provenance](data/README.md) | An issue listing pages by `concept_id`. For each, say whether it names a single substance, substance class or public-health term or something else (a person, a film, a list, an organization or an event), and why. Note pages that look like the same concept under two names. Don't edit the file: the list is pinned by a hash that every edition verifies. |
 | **Review entries in your field** | [Rules for the reviewed edition](lexicon/README.md) | Once editions exist: check a set of claims against their cited sources and record each decision with the evidence. |
 | **Place it against existing vocabularies** | Established vocabularies such as MeSH, RxNorm or UMLS | How they name and scope these terms, and what this lexicon adds or gets wrong. Primary sources, with links. |
 | **Write part of the paper** | This README's [Abstract](README.md#abstract) and [What needs to be done](README.md#what-needs-to-be-done) | Once results exist: a section draft or a substantive revision, in a pull request. |

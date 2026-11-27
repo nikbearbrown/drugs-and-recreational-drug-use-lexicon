@@ -26,6 +26,7 @@ There is no draft yet. The closest documents are the [seed list and its provenan
 - **Run the evidence checks** on each edition with `replication/scripts/check.py`.
 - **Compare the editions** term by term once they are frozen.
 - **Review entries** against their cited sources, with people who know the field, to build the reviewed edition.
+- **Review the seed list** for pages that don't name a single substance, substance class or public-health term. The list stays fixed, so findings go in issues (see the [contributor guide](CONTRIBUTING.md#pick-a-way-to-help)).
 - **Decide how to handle** redirects, lists and pages that don't name a single concept, which the seed list keeps on purpose.
 - **Place the work** against established vocabularies such as MeSH, RxNorm or UMLS.
 - **Write the paper:** the method, the agreement results and what review found.
@@ -34,6 +35,19 @@ There is no draft yet. The closest documents are the [seed list and its provenan
 ## How to contribute
 
 Read [CONTRIBUTING.md](CONTRIBUTING.md). In short: read this README, pick one task, and email Nik at bear@bearbrown.co with the subject "Drugs and Recreational Drug Use Lexicon: contributor" to be added to the repository. Anyone can [open an issue](https://github.com/nikbearbrown/drugs-and-recreational-drug-use-lexicon/issues/new) without emailing first.
+
+## Executive summary
+
+**What this is:** the working repository for a paper on building a checked vocabulary of substances, substance classes and public-health terms from several independent model-drafted editions. It holds the seed list and the kit a coding agent uses to draft an edition. The reviewed lexicon will be added here.
+
+**Why read it:** to see what the paper will claim, how far the work has got, and where you could help.
+
+**Where it stands (November 27, 2026):**
+
+- **The seed list is fixed.** [data/seeds.tsv](data/seeds.tsv) holds 352 pages, and its hash is in [data/source-manifest.json](data/source-manifest.json).
+- **The replication kit is ready.** It has the instructions, the two prompt files, and the scripts that render the messages and check an edition.
+- **No independent drafts or consensus entries exist in this repo yet.** Editions are drafted and handed in privately.
+- **No manuscript exists.** There is a working abstract, above.
 
 ## About this lexicon
 
@@ -44,3 +58,13 @@ A Humanitarians AI terminology project. The starting manifest has **352 unique E
 - [Canonical edition and review](lexicon/README.md)
 
 No independent drafts or consensus entries exist in this repo yet. This vocabulary is not diagnostic, treatment, or substance-use advice.
+
+## What is here
+
+| Path | What it holds |
+|---|---|
+| [data/](data/README.md) | The seed list (`seeds.tsv`) and where it came from (`source-manifest.json`): the retrieval window, the root categories including the missing and empty ones, the count and the hash. |
+| [replication/](replication/README.md) | The kit for one independent edition: instructions, prompt files, and the scripts that render messages and check a finished edition. |
+| [lexicon/](lexicon/README.md) | Where the reviewed lexicon will go, and how editions are reconciled. No entries yet. |
+| [AGENTS.md](AGENTS.md) | Where a coding agent starts. |
+| [CONTRIBUTING.md](CONTRIBUTING.md) | Ways to help, the rules for this lexicon, and how credit works. |
